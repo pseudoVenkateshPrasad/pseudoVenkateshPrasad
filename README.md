@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Prasad</h1>
 <h3 align="center">A passionate Full Stack Developer in India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pseudovenkateshprasad&label=Profile%20views&color=0e75b6&style=flat" alt="pseudovenkateshprasad" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1NPHbAgkjeyAXn3un-e850uN900C_4ctF/view?usp=sharing" alt="pseudovenkateshprasad" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
